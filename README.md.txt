@@ -1,0 +1,1 @@
+This is an animated store card effect.
